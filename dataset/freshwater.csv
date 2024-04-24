@@ -1,7 +1,7 @@
 Country,Internal renewable freshwater resources,,Annual freshwater withdrawals,,,,,Water productivity,People using at least basic drinking water services,
-,Flows,per capita,,,,,,GDP/water use,Urban,Rural
-,billion cu. m,cu. m,billion cu. m,% of internal resources,% for agriculture,% for industry,% of domestic,2010 $ per cu. m,% of urban population,% of rural population
-,Internal renewable freshwater resources flows 2020,Internal renewable freshwater resources per capita 2020,Annual freshwater withdrawals 2020,% of internal resources 2020,% for agriculture 2020,% for industry 2020,% of domestic 2020,Water productivity 2020,People using at least basic drinking water services urban 2022,People using at least basic drinking water services rural 2022
+Country,Flows,per capita,,,,,,GDP/water use,Urban,Rural
+Country,billion cu. m,cu. m,billion cu. m,% of internal resources,% for agriculture,% for industry,% of domestic,2010 $ per cu. m,% of urban population,% of rural population
+Country,Internal renewable freshwater resources flows 2020,Internal renewable freshwater resources per capita 2020,Annual freshwater withdrawals 2020,% of internal resources 2020,% for agriculture 2020,% for industry 2020,% of domestic 2020,Water productivity 2020,People using at least basic drinking water services urban 2022,People using at least basic drinking water services rural 2022
 Afghanistan,47.2,1210,20.3,43,98,1,1,1,99,76.1
 Albania,26.9,9479,0.8,2.9,69,2,29,16,95.7,94.1
 Algeria,11.2,259,9.8,87.2,64,2,34,17,96.1,90.4
