@@ -1,5 +1,4 @@
-﻿CountryID,Country and Area,"Forest Area, 1990 (1000 ha)","Forest Area, 2000 (1000 ha)","Forest Area, 2010 (1000 ha)","Forest Area, 2015 (1000 ha)","Forest Area, 2020 (1000 ha)","Total Land Area, 2020 (1000 ha)","Forest Area as a  Proportion of (%)
-Total Land Area, 2020","Deforestation, 
+﻿CountryID,Country and Area,"Forest Area, 1990 (1000 ha)","Forest Area, 2000 (1000 ha)","Forest Area, 2010 (1000 ha)","Forest Area, 2015 (1000 ha)","Forest Area, 2020 (1000 ha)","Total Land Area, 2020 (1000 ha)","Forest Area as a Proportion of (%) Total Land Area, 2020","Deforestation, 
 2015-2020 (1000 ha/year)","Total Forest Area 
 Affected by Fire, 2015 (1000 ha)"
 ,WORLD,4236433.42,4158049.52,4106316.94,…,4058930.81,13003000,31.13,10200,98040
@@ -76,7 +75,7 @@ Affected by Fire, 2015 (1000 ha)"
 242,Fiji,939.69,1006.47,1073.24,1106.62,1140.02,1827,62.40,...,...
 246,Finland,21875.33,22445.64,22242,22409,22409,30391,73.74,...,0.15
 250,France,14436,15288,16419,16836,17253,54756,31.51,...,6.21
-254,French Guiana,8125,8079.44,8036.5,8020,8002.85,8220,97.36,5.78,0
+254,French Guiana,8125,8079.44,8036.5,8020,8002.85,8220,97.36,5.78,0['
 258,French Polynesia,144.43,148.55,149.46,149.46,149.46,366,40.84,...,...
 266,Gabon,23761.62,23700,23649.41,23590,23530.6,25767,91.32,19.25,0
 270,Gambia,414.66,357.33,300,271.34,242.67,1012,23.98,...,...
