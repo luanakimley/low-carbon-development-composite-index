@@ -8,7 +8,8 @@ By considering **environmental**, **social**, **economic**, and **governance** i
 This index serves as a valuable tool for policymakers, stakeholders, and researchers to **evaluate the effectiveness of policy interventions, identify areas for improvement, and track long-term sustainability trends**.
 
 ### Installation & Running Web Visualisation
-[![JrxiZxf.md.gif](https://iili.io/JrxiZxf.md.gif)](https://freeimage.host/i/JrxiZxf)
+<iframe src="https://giphy.com/embed/ClNTdFbLU7NymvimP6" width="580" height="300" frameBorder="0"  allowFullScreen></iframe>
+
 1. **Install Dependencies**: Before running the web visualisation, ensure you have Node.js installed on your system.
 2. **Run Server**: Navigate to the project directory and run the following command in your terminal to start the server:
 ```
