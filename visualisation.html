@@ -64,8 +64,8 @@
         ctx.height = 1500;
 
         function makeChart(countries) {
-            var country = countries.map(function (d) {
-                return d.country;
+            var country = countries.map(function (d, i) {
+                return "#" + ~~d.rank + " " + d.country;
             });
 
             var lcdi = countries.map(function (d) {
