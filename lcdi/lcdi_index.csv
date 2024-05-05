@@ -1,4 +1,4 @@
-rank,country,region,environmental_score,socioeconomic_score,governance_score,lcdci
+rank,country,region,environmental_score,socioeconomic_score,governance_score,lcdi
 1.0,Norway,WEOG,0.8848726441171573,0.966,0.9826086956521739,0.9275124090151003
 2.0,Sweden,WEOG,0.8946506199910313,0.952,0.9826086956521739,0.9271513969520374
 3.0,Iceland,WEOG,0.8876880359378476,0.959,0.9826086956521739,0.9262951049254455
