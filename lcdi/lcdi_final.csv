@@ -40,7 +40,7 @@ Nigeria,23.75,221.0,1.0,30.0,0.548,82.5,304234.17718,African Group
 Rwanda,11.19,9.5,1.0,26.0,0.548,81.7,6069.135704,African Group
 Sao Tome and Principe,54.06,2.2,1.0,25.0,0.613,41.6,170.13039,African Group
 Senegal,41.91,25.8,1.0,30.0,0.517,38.6,28466.228496000003,African Group
-Seychelles,73.26,220.98007387579747,1.0,32.0,0.802,1.3,697.4353350000001,African Group
+Seychelles,73.26,21.558329192732447,1.0,32.0,0.802,1.3,697.4353350000001,African Group
 Sierra Leone,35.12,160.0,1.0,29.0,0.458,75.1,5768.621037999999,African Group
 Somalia,9.53,6.0,1.0,15.0,0.38,95.5,25961.407449,African Group
 South Africa,14.06,44.8,1.0,27.0,0.717,9.8,483447.80227999995,African Group
@@ -61,7 +61,7 @@ Brunei Darussalam,72.11,8.5,1.0,17.0,0.823,0.0,11264.770316,Asia-Pacific Group
 Cambodia,45.71,120.6,1.0,29.0,0.6,51.4,41273.818194,Asia-Pacific Group
 China,23.34,2812.9,1.0,31.0,0.788,14.8,12667891.5913,Asia-Pacific Group
 Cyprus,18.67,0.8,1.0,27.0,0.907,15.0,7893.160735,Asia-Pacific Group
-Democratic People's Republic of Korea,50.08,67.0,1.0,30.0,0.5530387759629023,12.7,73172.729016,Asia-Pacific Group
+Democratic People's Republic of Korea,50.08,67.0,1.0,30.0,0.5535262864635462,12.7,73172.729016,Asia-Pacific Group
 Fiji,62.4,28.6,1.0,31.0,0.729,31.8,1663.081599,Asia-Pacific Group
 India,24.27,1446.0,1.0,31.0,0.644,35.8,3177494.7621999998,Asia-Pacific Group
 Indonesia,49.07,2018.7,1.0,30.0,0.713,22.0,972787.5520900001,Asia-Pacific Group
@@ -70,27 +70,27 @@ Iraq,1.9,35.2,0.0,15.0,0.673,1.1,254868.16164900002,Asia-Pacific Group
 Japan,68.4,430.0,1.0,31.0,0.92,8.5,1058346.41766,Asia-Pacific Group
 Jordan,1.1,0.7,1.0,31.0,0.736,11.0,28878.058557999997,Asia-Pacific Group
 Kazakhstan,1.28,64.4,1.0,29.0,0.802,1.8,293243.61572,Asia-Pacific Group
-Kiribati,1.46,0.0,1.0,29.0,0.628,42.8,85.234366,Asia-Pacific Group
+Kiribati,1.46,21.348854916719738,1.0,29.0,0.628,42.8,85.234366,Asia-Pacific Group
 Kuwait,0.35,0.0,1.0,30.0,0.847,0.1,115896.48398599999,Asia-Pacific Group
 Kyrgyzstan,6.86,48.9,0.0,24.0,0.701,30.0,15961.297206000001,Asia-Pacific Group
 Lao People's Democratic Republic,71.9,190.4,1.0,29.0,0.62,49.9,30333.286498,Asia-Pacific Group
 Lebanon,14.01,4.8,0.0,30.0,0.723,6.7,25780.527367000002,Asia-Pacific Group
 Malaysia,58.18,580.0,1.0,30.0,0.807,5.8,291579.993837,Asia-Pacific Group
 Maldives,2.73,0.0,1.0,32.0,0.762,1.3,1600.8839300000002,Asia-Pacific Group
-Marshall Islands,52.22,86.13727753571152,1.0,32.0,0.731,12.0,142.610565,Asia-Pacific Group
-Micronesia (Federated States of),92.03,179.4643818479497,1.0,31.0,0.634,2.0,187.736317,Asia-Pacific Group
+Marshall Islands,52.22,21.38173491052988,1.0,32.0,0.731,12.0,142.610565,Asia-Pacific Group
+Micronesia (Federated States of),92.03,21.526197511591672,1.0,31.0,0.634,2.0,187.736317,Asia-Pacific Group
 Mongolia,9.12,34.8,1.0,31.0,0.741,4.0,53589.95689,Asia-Pacific Group
 Myanmar,43.71,1002.8,1.0,30.0,0.608,59.8,128941.14659,Asia-Pacific Group
 Nepal,41.59,198.2,1.0,30.0,0.601,74.5,45770.632411,Asia-Pacific Group
 Oman,0.01,1.4,1.0,29.0,0.819,0.1,91912.29403800001,Asia-Pacific Group
 Pakistan,4.83,55.0,1.0,30.0,0.54,46.6,422511.19025,Asia-Pacific Group
-Palau,90.02,210.2551029691025,1.0,25.0,0.797,0.9,177.72630199999998,Asia-Pacific Group
+Palau,90.02,21.280690225366573,1.0,25.0,0.797,0.9,177.72630199999998,Asia-Pacific Group
 Papua New Guinea,79.18,801.0,1.0,31.0,0.568,54.3,18050.71925,Asia-Pacific Group
 Philippines,24.11,479.0,1.0,30.0,0.71,29.1,213649.08913,Asia-Pacific Group
-State of Palestine,1.68,0.8,1.0,9.0,0.716,15.0,193091.98974949578,Asia-Pacific Group
+State of Palestine,1.68,0.8,1.0,9.0,0.716,15.0,192617.50673935332,Asia-Pacific Group
 Qatar,0.0,0.1,1.0,28.0,0.875,0.1,118889.609633,Asia-Pacific Group
 Republic of Korea,64.52,64.9,1.0,31.0,0.929,3.6,601768.72481,Asia-Pacific Group
-Samoa,57.13,102.67065437857116,1.0,30.0,0.702,37.5,524.318361,Asia-Pacific Group
+Samoa,57.13,22.86595983262122,1.0,30.0,0.702,37.5,524.318361,Asia-Pacific Group
 Saudi Arabia,0.45,2.4,1.0,30.0,0.875,0.1,624435.51151,Asia-Pacific Group
 Singapore,21.93,0.6,1.0,27.0,0.949,0.9,58364.130640999996,Asia-Pacific Group
 Solomon Islands,90.14,44.7,1.0,30.0,0.562,49.0,662.580567,Asia-Pacific Group
@@ -99,10 +99,10 @@ Syrian Arab Republic,2.84,7.1,1.0,28.0,0.557,1.1,44461.86243,Asia-Pacific Group
 Tajikistan,3.05,63.5,1.0,26.0,0.679,38.8,17280.843571999998,Asia-Pacific Group
 Thailand,38.9,224.5,1.0,30.0,0.803,20.8,362303.45800000004,Asia-Pacific Group
 Timor-Leste,61.94,8.2,1.0,18.0,0.566,11.4,5514.816109,Asia-Pacific Group
-Tonga,12.43,0.0,1.0,26.0,0.739,1.9,262.706858,Asia-Pacific Group
+Tonga,12.43,21.78112784994462,1.0,26.0,0.739,1.9,262.706858,Asia-Pacific Group
 Turkey,28.87,227.0,0.0,20.0,0.855,13.7,495983.03941,Asia-Pacific Group
 Turkmenistan,8.78,1.4,1.0,29.0,0.744,0.1,193800.796963,Asia-Pacific Group
-Tuvalu,33.33,0.1027660900257387,1.0,31.0,0.653,6.7,19.61768,Asia-Pacific Group
+Tuvalu,33.33,21.298899494703484,1.0,31.0,0.653,6.7,19.61768,Asia-Pacific Group
 United Arab Emirates,4.47,0.2,1.0,29.0,0.937,0.9,246863.04494400002,Asia-Pacific Group
 Uzbekistan,8.67,16.3,1.0,31.0,0.727,1.0,186169.05645,Asia-Pacific Group
 Vanuatu,36.28,10.0,1.0,31.0,0.614,26.0,581.906886,Asia-Pacific Group
@@ -121,7 +121,7 @@ Georgia,40.62,58.1,1.0,30.0,0.814,23.5,17546.391024999997,Eastern European Group
 Hungary,22.68,6.0,1.0,30.0,0.851,14.8,58210.01351700001,Eastern European Group
 Latvia,54.85,16.9,1.0,29.0,0.879,43.8,11234.914367,Eastern European Group
 Lithuania,35.13,15.5,1.0,29.0,0.879,31.7,19306.305232,Eastern European Group
-Montenegro,61.49,160.7967661294001,1.0,18.0,0.844,39.6,3461.100304,Eastern European Group
+Montenegro,61.49,25.124881183132132,1.0,18.0,0.844,39.6,3461.100304,Eastern European Group
 Poland,30.97,53.6,1.0,30.0,0.881,16.1,331628.58612,Eastern European Group
 Republic of Moldova,11.75,1.6,1.0,29.0,0.763,23.7,12891.584842,Eastern European Group
 Romania,30.12,42.4,1.0,30.0,0.827,24.1,94274.817478,Eastern European Group
@@ -177,7 +177,7 @@ Iceland,0.51,170.0,1.0,31.0,0.959,82.8,2330.423414,WEOG
 Ireland,11.35,49.0,1.0,30.0,0.95,13.7,58567.923119,WEOG
 Israel,6.47,0.8,1.0,28.0,0.915,5.6,70963.806836,WEOG
 Italy,32.52,182.5,1.0,30.0,0.906,18.7,341165.11468,WEOG
-Liechtenstein,41.88,69.21666646858341,1.0,30.0,0.942,55.2,145.455338,WEOG
+Liechtenstein,41.88,21.17780373439004,1.0,30.0,0.942,55.2,145.455338,WEOG
 Luxembourg,36.5,1.0,1.0,30.0,0.927,20.8,8767.388664,WEOG
 Malta,1.44,0.1,1.0,30.0,0.915,9.2,1886.957802,WEOG
 Netherlands,10.97,11.0,1.0,31.0,0.946,10.8,153852.587705,WEOG
@@ -187,6 +187,5 @@ Portugal,36.15,38.0,1.0,31.0,0.874,31.2,53448.848959,WEOG
 Spain,37.17,111.2,1.0,31.0,0.911,19.4,263369.39652,WEOG
 Sweden,68.69,171.0,1.0,31.0,0.952,58.4,44749.265934,WEOG
 Switzerland,32.11,40.4,1.0,31.0,0.967,26.4,42288.052088,WEOG
-Turkey,28.87,227.0,0.0,20.0,0.855,13.7,495983.03941,WEOG
 United Kingdom of Great Britain and Northern Ireland,13.19,145.0,1.0,31.0,0.94,13.5,386762.66387,WEOG
 United States of America,33.87,2818.0,1.0,32.0,0.927,11.2,5326776.2589,WEOG
